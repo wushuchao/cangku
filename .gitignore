@@ -1,0 +1,12 @@
+# WorkBuddy 本地项目数据，不纳入版本管理
+.workbuddy/
+
+# 系统/编辑器杂项
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+node_modules/
+__pycache__/
+*.log
